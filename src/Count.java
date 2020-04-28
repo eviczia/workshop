@@ -1,6 +1,6 @@
 public class Count {
   
     public void count(String monthIBorn){
-        System.out.println("GabiKoran-twoparam" + monthIBorn);    
+        System.out.println("Counting the countless " + monthIBorn);
     }
 }
