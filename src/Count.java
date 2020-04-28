@@ -1,8 +1,6 @@
 public class Count {
 
-    public int monthIBorn;
-
-    public void count(){
-        System.out.println(monthIBorn);
+    public void count(String monthIBorn){
+        System.out.println("GabiKoran-twoparam" + monthIBorn);
     }
 }
