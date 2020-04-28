@@ -1,8 +1,6 @@
 public class Greet {
 
-    String name = "Johi";
-
-    public void greet(){
+    public void greet(String name){
         System.out.println("Hello, " + name);
     }
 
