@@ -1,5 +1,6 @@
 public class Count {
-    public void count(){
-        System.out.println(37);
+
+    public void count(int number){
+        System.out.println(number);
     }
 }
